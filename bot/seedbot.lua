@@ -217,9 +217,9 @@ function create_config( )
     "anti_spam",
     "owners",
     "arabic_lock",
-    "Plugins"
-    "xyxy"
-    "mainfucker"
+    "Plugins",
+    "xyxy",
+    "mainfucker",
     "set",
     "get",
     "broadcast",
