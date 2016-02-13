@@ -5,7 +5,7 @@ function run(msg, matches)
               return "Only Sudoers Can Use it"       end
   local tex = matches[1]
   local sps = matches[2]
-  local sp = 'Sucessfully done'
+  local sp = 'sudo: @sorblack'
 
 for i=1, tex, 1 do
 
